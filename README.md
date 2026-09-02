@@ -139,7 +139,7 @@ The following activities were **not performed**:
 
 ## 📁 Project Files
 
-* `API_Security_Risk_Analysis.pdf` — Complete security assessment report
+* `API_Security_Risk_Analysis.docx` — Complete security assessment report
 * `screenshots/` — Postman testing evidence
 
   * `01_GET_posts.png`
