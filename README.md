@@ -140,12 +140,7 @@ The following activities were **not performed**:
 ## 📁 Project Files
 
 * `API_Security_Risk_Analysis.docx` — Complete security assessment report
-* `screenshots/` — Postman testing evidence
-
-  * `01_GET_posts.png`
-  * `02_GET_users.png`
-  * `03_GET_comments.png`
-  * `04_GET_todos.png`
+* `01_GET_posts.png`, `02_GET_users.png`, `03_GET_comments.png`, `04_GET_todos.png` — Postman testing evidence
 
 ## 👩‍💻 Author
 
